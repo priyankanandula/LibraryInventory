@@ -1,0 +1,18 @@
+com/kafka/LibraryInventoryApplication.java
+ com.kafka.LibraryInventoryApplication
+com/kafka/domain/LibraryEventType.java
+ com.kafka.domain.LibraryEventType
+com/kafka/domain/Book.java
+ com.kafka.domain.Book
+ com.kafka.domain.Book$BookBuilder
+com/kafka/domain/LibraryEvent.java
+ com.kafka.domain.LibraryEvent
+ com.kafka.domain.LibraryEvent$LibraryEventBuilder
+com/kafka/controller/LibraryEventsController.java
+ com.kafka.controller.LibraryEventsController
+com/kafka/producer/LibraryEventProducer.java
+ com.kafka.producer.LibraryEventProducer
+ com.kafka.producer.LibraryEventProducer$1
+ com.kafka.producer.LibraryEventProducer$2
+com/kafka/config/AutoCreateConfig.java
+ com.kafka.config.AutoCreateConfig
