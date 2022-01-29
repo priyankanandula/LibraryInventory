@@ -10,6 +10,7 @@ import org.springframework.kafka.config.TopicBuilder;
 @Profile("local")
 public class AutoCreateConfig {
 
+
     @Bean
     public NewTopic libraryEvents(){
         return TopicBuilder.name("library-events")
